@@ -2,7 +2,7 @@ import http from "node:http";
 import { readFile, stat } from "node:fs/promises";
 import { extname, join, normalize } from "node:path";
 
-const BASE = (process.env.BASE || "/beauty-salon-template").replace(/\/+$/, "");
+const BASE = (process.env.BASE || "/garibel-beauty-salon").replace(/\/+$/, "");
 const ROOT = "_site";
 const PORT = process.env.PORT ? Number(process.env.PORT) : 5174;
 

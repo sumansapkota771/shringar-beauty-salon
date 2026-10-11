@@ -66,5 +66,5 @@ const server = http.createServer(async (req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`Your Salon Name running at http://localhost:${PORT}`);
+  console.log(`Garibel running at http://localhost:${PORT}`);
 });

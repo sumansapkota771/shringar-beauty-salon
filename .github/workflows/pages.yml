@@ -28,7 +28,7 @@ jobs:
 
       - name: Build static site for GitHub Pages base path
         env:
-          BASE: /beauty-salon-template
+          BASE: /garibel-beauty-salon
         run: node scripts/build-pages.mjs
 
       - name: Configure Pages
