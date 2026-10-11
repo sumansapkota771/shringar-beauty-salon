@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sumansapkota771.github.io/garibel-beauty-salon/sitemap.xml
+Sitemap: https://sumansapkota771.github.io/shringar-beauty-salon/sitemap.xml

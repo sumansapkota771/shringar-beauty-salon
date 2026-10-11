@@ -1,7 +1,7 @@
 import { cpSync, rmSync, readdirSync, readFileSync, writeFileSync, statSync } from "node:fs";
 import { join, extname } from "node:path";
 
-const BASE = (process.env.BASE || "/garibel-beauty-salon").replace(/\/+$/, "");
+const BASE = (process.env.BASE || "/shringar-beauty-salon").replace(/\/+$/, "");
 const SRC = "site";
 const OUT = "_site";
 
